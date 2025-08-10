@@ -1,11 +1,13 @@
 {
   "compilerOptions": {
+    "target": "ES6",
     "module": "CommonJS",
     "outDir": "./dist",
     "strict": true,
     "esModuleInterop": true,
-    "target": "ES2020",
     "sourceMap": true,
-    "inlineSources": true
+    "inlineSources": true,
+    "inlineSourceMap": false,
+    "resolveJsonModule":true
   }
 }

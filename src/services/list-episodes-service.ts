@@ -3,6 +3,7 @@ import { repositoryPodcast } from "../repositories/podcasts-repository";
 import { StatusCode } from "../utils/status-code";
 
 export const serviceListEpisodes = async (): Promise<PodcastTransferModel> => {
+  console.log('entrou em serviceListEpisodes')
   //define contrato
   let responseFormat: PodcastTransferModel = {
     statusCode: 0,

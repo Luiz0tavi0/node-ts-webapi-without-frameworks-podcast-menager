@@ -3,24 +3,1827 @@
     "podcastName": "flow",
     "episode": "CBUM - Flow #319",
     "videoId": "pQSuQmUfS30",
-    "categories": ["saúde", "esporte", "bodybuilder"]
+    "categories": [
+      "saúde",
+      "esporte",
+      "bodybuilder"
+    ]
   },
   {
     "podcastName": "flow",
     "episode": "RUBENS BARRICHELLO - Flow #339",
     "videoId": "4KDGTdiOV4I",
-    "categories": ["esporte", "corrida"]
+    "categories": [
+      "esporte",
+      "corrida"
+    ]
   },
   {
     "podcastName": "flow",
     "episode": "Felipão - Flow #339",
     "videoId": "00000",
-    "categories": ["esporte", "programação"]
+    "categories": [
+      "esporte",
+      "programação"
+    ]
   },
   {
     "podcastName": "venus",
     "episode": "Xuxa",
     "videoId": "00000",
-    "categories": ["humor"]
+    "categories": [
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 1 - Saúde Em Foco",
+    "videoId": "vid0001",
+    "categories": [
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 2 - Venus",
+    "videoId": "vid0002",
+    "categories": [
+      "negócios",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 3 - Humor Sem Filtro",
+    "videoId": "vid0003",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 4 - Nerdcast",
+    "videoId": "vid0004",
+    "categories": [
+      "nutrição",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 5 - Mindset Pro",
+    "videoId": "vid0005",
+    "categories": [
+      "viagem",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 6 - Nerdcast",
+    "videoId": "vid0006",
+    "categories": [
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 7 - Humor Sem Filtro",
+    "videoId": "vid0007",
+    "categories": [
+      "corrida",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 8 - Dev Talks",
+    "videoId": "vid0008",
+    "categories": [
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 9 - Venus",
+    "videoId": "vid0009",
+    "categories": [
+      "humor",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 10 - Dev Talks",
+    "videoId": "vid0010",
+    "categories": [
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 11 - Dev Talks",
+    "videoId": "vid0011",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 12 - Flow",
+    "videoId": "vid0012",
+    "categories": [
+      "saúde",
+      "astronomia",
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 13 - Café Com Ciência",
+    "videoId": "vid0013",
+    "categories": [
+      "negócios",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 14 - Humor Sem Filtro",
+    "videoId": "vid0014",
+    "categories": [
+      "bodybuilder",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 15 - Venus",
+    "videoId": "vid0015",
+    "categories": [
+      "futebol",
+      "programação",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 16 - Flow",
+    "videoId": "vid0016",
+    "categories": [
+      "ciência",
+      "corrida",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 17 - Venus",
+    "videoId": "vid0017",
+    "categories": [
+      "saúde",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 18 - Resenha Esportiva",
+    "videoId": "vid0018",
+    "categories": [
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 19 - Saúde Em Foco",
+    "videoId": "vid0019",
+    "categories": [
+      "saúde",
+      "bodybuilder",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 20 - Venus",
+    "videoId": "vid0020",
+    "categories": [
+      "astronomia",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 21 - Mindset Pro",
+    "videoId": "vid0021",
+    "categories": [
+      "negócios",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 22 - Café Com Ciência",
+    "videoId": "vid0022",
+    "categories": [
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 23 - Mindset Pro",
+    "videoId": "vid0023",
+    "categories": [
+      "ciência",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 24 - Venus",
+    "videoId": "vid0024",
+    "categories": [
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 25 - Resenha Esportiva",
+    "videoId": "vid0025",
+    "categories": [
+      "negócios",
+      "mentalidade",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 26 - Dev Talks",
+    "videoId": "vid0026",
+    "categories": [
+      "negócios",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 27 - Saúde Em Foco",
+    "videoId": "vid0027",
+    "categories": [
+      "corrida",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 28 - Café Com Ciência",
+    "videoId": "vid0028",
+    "categories": [
+      "negócios",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 29 - Stand Up Talks",
+    "videoId": "vid0029",
+    "categories": [
+      "astronomia",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 30 - Mindset Pro",
+    "videoId": "vid0030",
+    "categories": [
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 31 - Nerdcast",
+    "videoId": "vid0031",
+    "categories": [
+      "saúde",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 32 - Flow",
+    "videoId": "vid0032",
+    "categories": [
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 33 - Flow",
+    "videoId": "vid0033",
+    "categories": [
+      "corrida",
+      "viagem",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 34 - Humor Sem Filtro",
+    "videoId": "vid0034",
+    "categories": [
+      "astronomia",
+      "futebol",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 35 - Venus",
+    "videoId": "vid0035",
+    "categories": [
+      "programação",
+      "astronomia",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 36 - Mindset Pro",
+    "videoId": "vid0036",
+    "categories": [
+      "negócios",
+      "saúde",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 37 - Resenha Esportiva",
+    "videoId": "vid0037",
+    "categories": [
+      "negócios",
+      "ciência",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 38 - Venus",
+    "videoId": "vid0038",
+    "categories": [
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 39 - Café Com Ciência",
+    "videoId": "vid0039",
+    "categories": [
+      "viagem",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 40 - Stand Up Talks",
+    "videoId": "vid0040",
+    "categories": [
+      "mentalidade",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 41 - Saúde Em Foco",
+    "videoId": "vid0041",
+    "categories": [
+      "humor",
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 42 - Mindset Pro",
+    "videoId": "vid0042",
+    "categories": [
+      "mentalidade",
+      "bodybuilder",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 43 - Saúde Em Foco",
+    "videoId": "vid0043",
+    "categories": [
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 44 - Venus",
+    "videoId": "vid0044",
+    "categories": [
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 45 - Nerdcast",
+    "videoId": "vid0045",
+    "categories": [
+      "tecnologia",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 46 - Saúde Em Foco",
+    "videoId": "vid0046",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 47 - Nerdcast",
+    "videoId": "vid0047",
+    "categories": [
+      "ciência",
+      "tecnologia",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 48 - Café Com Ciência",
+    "videoId": "vid0048",
+    "categories": [
+      "nutrição",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 49 - Saúde Em Foco",
+    "videoId": "vid0049",
+    "categories": [
+      "basquete",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 50 - Dev Talks",
+    "videoId": "vid0050",
+    "categories": [
+      "nutrição",
+      "viagem",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 51 - Flow",
+    "videoId": "vid0051",
+    "categories": [
+      "nutrição",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 52 - Humor Sem Filtro",
+    "videoId": "vid0052",
+    "categories": [
+      "esporte",
+      "negócios",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 53 - Stand Up Talks",
+    "videoId": "vid0053",
+    "categories": [
+      "basquete",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 54 - Saúde Em Foco",
+    "videoId": "vid0054",
+    "categories": [
+      "basquete",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 55 - Humor Sem Filtro",
+    "videoId": "vid0055",
+    "categories": [
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 56 - Café Com Ciência",
+    "videoId": "vid0056",
+    "categories": [
+      "negócios",
+      "ciência",
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 57 - Humor Sem Filtro",
+    "videoId": "vid0057",
+    "categories": [
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 58 - Café Com Ciência",
+    "videoId": "vid0058",
+    "categories": [
+      "negócios",
+      "corrida",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 59 - Humor Sem Filtro",
+    "videoId": "vid0059",
+    "categories": [
+      "basquete",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 60 - Venus",
+    "videoId": "vid0060",
+    "categories": [
+      "astronomia",
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 61 - Saúde Em Foco",
+    "videoId": "vid0061",
+    "categories": [
+      "saúde",
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 62 - Café Com Ciência",
+    "videoId": "vid0062",
+    "categories": [
+      "humor",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 63 - Resenha Esportiva",
+    "videoId": "vid0063",
+    "categories": [
+      "ciência",
+      "saúde",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 64 - Saúde Em Foco",
+    "videoId": "vid0064",
+    "categories": [
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 65 - Venus",
+    "videoId": "vid0065",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 66 - Humor Sem Filtro",
+    "videoId": "vid0066",
+    "categories": [
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 67 - Resenha Esportiva",
+    "videoId": "vid0067",
+    "categories": [
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 68 - Resenha Esportiva",
+    "videoId": "vid0068",
+    "categories": [
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 69 - Nerdcast",
+    "videoId": "vid0069",
+    "categories": [
+      "bodybuilder",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 70 - Nerdcast",
+    "videoId": "vid0070",
+    "categories": [
+      "ciência",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 71 - Humor Sem Filtro",
+    "videoId": "vid0071",
+    "categories": [
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 72 - Humor Sem Filtro",
+    "videoId": "vid0072",
+    "categories": [
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 73 - Café Com Ciência",
+    "videoId": "vid0073",
+    "categories": [
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 74 - Humor Sem Filtro",
+    "videoId": "vid0074",
+    "categories": [
+      "negócios",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 75 - Café Com Ciência",
+    "videoId": "vid0075",
+    "categories": [
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 76 - Dev Talks",
+    "videoId": "vid0076",
+    "categories": [
+      "nutrição",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 77 - Dev Talks",
+    "videoId": "vid0077",
+    "categories": [
+      "esporte",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 78 - Flow",
+    "videoId": "vid0078",
+    "categories": [
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 79 - Nerdcast",
+    "videoId": "vid0079",
+    "categories": [
+      "bodybuilder",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 80 - Humor Sem Filtro",
+    "videoId": "vid0080",
+    "categories": [
+      "viagem",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 81 - Resenha Esportiva",
+    "videoId": "vid0081",
+    "categories": [
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 82 - Saúde Em Foco",
+    "videoId": "vid0082",
+    "categories": [
+      "programação",
+      "basquete",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 83 - Resenha Esportiva",
+    "videoId": "vid0083",
+    "categories": [
+      "programação",
+      "esporte",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 84 - Humor Sem Filtro",
+    "videoId": "vid0084",
+    "categories": [
+      "astronomia",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 85 - Flow",
+    "videoId": "vid0085",
+    "categories": [
+      "viagem",
+      "saúde",
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 86 - Venus",
+    "videoId": "vid0086",
+    "categories": [
+      "astronomia",
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 87 - Humor Sem Filtro",
+    "videoId": "vid0087",
+    "categories": [
+      "humor",
+      "negócios",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 88 - Resenha Esportiva",
+    "videoId": "vid0088",
+    "categories": [
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 89 - Stand Up Talks",
+    "videoId": "vid0089",
+    "categories": [
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 90 - Venus",
+    "videoId": "vid0090",
+    "categories": [
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 91 - Mindset Pro",
+    "videoId": "vid0091",
+    "categories": [
+      "saúde",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 92 - Venus",
+    "videoId": "vid0092",
+    "categories": [
+      "corrida",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 93 - Nerdcast",
+    "videoId": "vid0093",
+    "categories": [
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 94 - Stand Up Talks",
+    "videoId": "vid0094",
+    "categories": [
+      "programação",
+      "negócios",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 95 - Saúde Em Foco",
+    "videoId": "vid0095",
+    "categories": [
+      "tecnologia",
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 96 - Dev Talks",
+    "videoId": "vid0096",
+    "categories": [
+      "viagem",
+      "corrida",
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 97 - Saúde Em Foco",
+    "videoId": "vid0097",
+    "categories": [
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 98 - Flow",
+    "videoId": "vid0098",
+    "categories": [
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 99 - Flow",
+    "videoId": "vid0099",
+    "categories": [
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 100 - Flow",
+    "videoId": "vid0100",
+    "categories": [
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 101 - Dev Talks",
+    "videoId": "vid0101",
+    "categories": [
+      "astronomia",
+      "saúde",
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 102 - Venus",
+    "videoId": "vid0102",
+    "categories": [
+      "nutrição",
+      "mentalidade",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 103 - Humor Sem Filtro",
+    "videoId": "vid0103",
+    "categories": [
+      "corrida",
+      "mentalidade",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 104 - Resenha Esportiva",
+    "videoId": "vid0104",
+    "categories": [
+      "viagem",
+      "saúde",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 105 - Café Com Ciência",
+    "videoId": "vid0105",
+    "categories": [
+      "saúde",
+      "tecnologia",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 106 - Café Com Ciência",
+    "videoId": "vid0106",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 107 - Dev Talks",
+    "videoId": "vid0107",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 108 - Café Com Ciência",
+    "videoId": "vid0108",
+    "categories": [
+      "viagem",
+      "programação",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 109 - Stand Up Talks",
+    "videoId": "vid0109",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 110 - Venus",
+    "videoId": "vid0110",
+    "categories": [
+      "nutrição",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 111 - Nerdcast",
+    "videoId": "vid0111",
+    "categories": [
+      "programação",
+      "bodybuilder",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 112 - Humor Sem Filtro",
+    "videoId": "vid0112",
+    "categories": [
+      "basquete",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 113 - Saúde Em Foco",
+    "videoId": "vid0113",
+    "categories": [
+      "corrida",
+      "viagem",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 114 - Saúde Em Foco",
+    "videoId": "vid0114",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 115 - Saúde Em Foco",
+    "videoId": "vid0115",
+    "categories": [
+      "saúde",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 116 - Venus",
+    "videoId": "vid0116",
+    "categories": [
+      "negócios",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 117 - Nerdcast",
+    "videoId": "vid0117",
+    "categories": [
+      "negócios",
+      "programação",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 118 - Café Com Ciência",
+    "videoId": "vid0118",
+    "categories": [
+      "humor",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 119 - Stand Up Talks",
+    "videoId": "vid0119",
+    "categories": [
+      "esporte",
+      "bodybuilder",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 120 - Café Com Ciência",
+    "videoId": "vid0120",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 121 - Saúde Em Foco",
+    "videoId": "vid0121",
+    "categories": [
+      "viagem",
+      "nutrição",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 122 - Saúde Em Foco",
+    "videoId": "vid0122",
+    "categories": [
+      "viagem",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 123 - Dev Talks",
+    "videoId": "vid0123",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 124 - Saúde Em Foco",
+    "videoId": "vid0124",
+    "categories": [
+      "negócios",
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 125 - Humor Sem Filtro",
+    "videoId": "vid0125",
+    "categories": [
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 126 - Dev Talks",
+    "videoId": "vid0126",
+    "categories": [
+      "viagem",
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 127 - Humor Sem Filtro",
+    "videoId": "vid0127",
+    "categories": [
+      "viagem",
+      "corrida",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 128 - Saúde Em Foco",
+    "videoId": "vid0128",
+    "categories": [
+      "astronomia",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 129 - Resenha Esportiva",
+    "videoId": "vid0129",
+    "categories": [
+      "ciência",
+      "tecnologia",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 130 - Resenha Esportiva",
+    "videoId": "vid0130",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 131 - Flow",
+    "videoId": "vid0131",
+    "categories": [
+      "basquete",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 132 - Café Com Ciência",
+    "videoId": "vid0132",
+    "categories": [
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 133 - Flow",
+    "videoId": "vid0133",
+    "categories": [
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 134 - Café Com Ciência",
+    "videoId": "vid0134",
+    "categories": [
+      "corrida",
+      "esporte",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 135 - Saúde Em Foco",
+    "videoId": "vid0135",
+    "categories": [
+      "ciência",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 136 - Stand Up Talks",
+    "videoId": "vid0136",
+    "categories": [
+      "nutrição",
+      "ciência",
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 137 - Stand Up Talks",
+    "videoId": "vid0137",
+    "categories": [
+      "tecnologia",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 138 - Nerdcast",
+    "videoId": "vid0138",
+    "categories": [
+      "programação",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 139 - Mindset Pro",
+    "videoId": "vid0139",
+    "categories": [
+      "esporte",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 140 - Café Com Ciência",
+    "videoId": "vid0140",
+    "categories": [
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 141 - Mindset Pro",
+    "videoId": "vid0141",
+    "categories": [
+      "viagem",
+      "tecnologia",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 142 - Mindset Pro",
+    "videoId": "vid0142",
+    "categories": [
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 143 - Café Com Ciência",
+    "videoId": "vid0143",
+    "categories": [
+      "tecnologia",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 144 - Resenha Esportiva",
+    "videoId": "vid0144",
+    "categories": [
+      "corrida",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 145 - Flow",
+    "videoId": "vid0145",
+    "categories": [
+      "mentalidade",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 146 - Stand Up Talks",
+    "videoId": "vid0146",
+    "categories": [
+      "basquete",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 147 - Saúde Em Foco",
+    "videoId": "vid0147",
+    "categories": [
+      "bodybuilder",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 148 - Humor Sem Filtro",
+    "videoId": "vid0148",
+    "categories": [
+      "saúde",
+      "negócios",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 149 - Mindset Pro",
+    "videoId": "vid0149",
+    "categories": [
+      "futebol",
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 150 - Nerdcast",
+    "videoId": "vid0150",
+    "categories": [
+      "tecnologia",
+      "mentalidade",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 151 - Stand Up Talks",
+    "videoId": "vid0151",
+    "categories": [
+      "mentalidade",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 152 - Flow",
+    "videoId": "vid0152",
+    "categories": [
+      "bodybuilder",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 153 - Venus",
+    "videoId": "vid0153",
+    "categories": [
+      "bodybuilder"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 154 - Nerdcast",
+    "videoId": "vid0154",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 155 - Café Com Ciência",
+    "videoId": "vid0155",
+    "categories": [
+      "futebol",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 156 - Nerdcast",
+    "videoId": "vid0156",
+    "categories": [
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 157 - Café Com Ciência",
+    "videoId": "vid0157",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 158 - Dev Talks",
+    "videoId": "vid0158",
+    "categories": [
+      "ciência",
+      "esporte",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 159 - Nerdcast",
+    "videoId": "vid0159",
+    "categories": [
+      "ciência"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 160 - Nerdcast",
+    "videoId": "vid0160",
+    "categories": [
+      "nutrição",
+      "basquete",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 161 - Mindset Pro",
+    "videoId": "vid0161",
+    "categories": [
+      "bodybuilder",
+      "saúde",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 162 - Nerdcast",
+    "videoId": "vid0162",
+    "categories": [
+      "ciência",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 163 - Resenha Esportiva",
+    "videoId": "vid0163",
+    "categories": [
+      "ciência",
+      "corrida",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 164 - Stand Up Talks",
+    "videoId": "vid0164",
+    "categories": [
+      "viagem",
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 165 - Stand Up Talks",
+    "videoId": "vid0165",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 166 - Nerdcast",
+    "videoId": "vid0166",
+    "categories": [
+      "basquete",
+      "bodybuilder",
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 167 - Dev Talks",
+    "videoId": "vid0167",
+    "categories": [
+      "basquete",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 168 - Saúde Em Foco",
+    "videoId": "vid0168",
+    "categories": [
+      "viagem",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 169 - Nerdcast",
+    "videoId": "vid0169",
+    "categories": [
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 170 - Resenha Esportiva",
+    "videoId": "vid0170",
+    "categories": [
+      "programação",
+      "negócios",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 171 - Nerdcast",
+    "videoId": "vid0171",
+    "categories": [
+      "viagem",
+      "nutrição",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 172 - Stand Up Talks",
+    "videoId": "vid0172",
+    "categories": [
+      "futebol",
+      "viagem",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "nerdcast",
+    "episode": "Episódio Especial 173 - Nerdcast",
+    "videoId": "vid0173",
+    "categories": [
+      "astronomia",
+      "programação",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 174 - Flow",
+    "videoId": "vid0174",
+    "categories": [
+      "mentalidade",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 175 - Café Com Ciência",
+    "videoId": "vid0175",
+    "categories": [
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 176 - Venus",
+    "videoId": "vid0176",
+    "categories": [
+      "esporte"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 177 - Humor Sem Filtro",
+    "videoId": "vid0177",
+    "categories": [
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 178 - Venus",
+    "videoId": "vid0178",
+    "categories": [
+      "futebol"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 179 - Venus",
+    "videoId": "vid0179",
+    "categories": [
+      "programação",
+      "nutrição",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 180 - Saúde Em Foco",
+    "videoId": "vid0180",
+    "categories": [
+      "negócios",
+      "viagem"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 181 - Stand Up Talks",
+    "videoId": "vid0181",
+    "categories": [
+      "viagem",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "humor sem filtro",
+    "episode": "Episódio Especial 182 - Humor Sem Filtro",
+    "videoId": "vid0182",
+    "categories": [
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 183 - Stand Up Talks",
+    "videoId": "vid0183",
+    "categories": [
+      "tecnologia",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 184 - Venus",
+    "videoId": "vid0184",
+    "categories": [
+      "saúde",
+      "humor"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 185 - Mindset Pro",
+    "videoId": "vid0185",
+    "categories": [
+      "viagem",
+      "futebol",
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "café com ciência",
+    "episode": "Episódio Especial 186 - Café Com Ciência",
+    "videoId": "vid0186",
+    "categories": [
+      "programação",
+      "mentalidade",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 187 - Stand Up Talks",
+    "videoId": "vid0187",
+    "categories": [
+      "saúde",
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 188 - Mindset Pro",
+    "videoId": "vid0188",
+    "categories": [
+      "ciência",
+      "esporte",
+      "tecnologia"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 189 - Mindset Pro",
+    "videoId": "vid0189",
+    "categories": [
+      "ciência",
+      "esporte",
+      "nutrição"
+    ]
+  },
+  {
+    "podcastName": "stand up talks",
+    "episode": "Episódio Especial 190 - Stand Up Talks",
+    "videoId": "vid0190",
+    "categories": [
+      "esporte",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "saúde em foco",
+    "episode": "Episódio Especial 191 - Saúde Em Foco",
+    "videoId": "vid0191",
+    "categories": [
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 192 - Resenha Esportiva",
+    "videoId": "vid0192",
+    "categories": [
+      "humor",
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 193 - Mindset Pro",
+    "videoId": "vid0193",
+    "categories": [
+      "saúde"
+    ]
+  },
+  {
+    "podcastName": "flow",
+    "episode": "Episódio Especial 194 - Flow",
+    "videoId": "vid0194",
+    "categories": [
+      "basquete"
+    ]
+  },
+  {
+    "podcastName": "mindset pro",
+    "episode": "Episódio Especial 195 - Mindset Pro",
+    "videoId": "vid0195",
+    "categories": [
+      "negócios"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 196 - Resenha Esportiva",
+    "videoId": "vid0196",
+    "categories": [
+      "futebol",
+      "astronomia"
+    ]
+  },
+  {
+    "podcastName": "resenha esportiva",
+    "episode": "Episódio Especial 197 - Resenha Esportiva",
+    "videoId": "vid0197",
+    "categories": [
+      "tecnologia",
+      "corrida"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 198 - Dev Talks",
+    "videoId": "vid0198",
+    "categories": [
+      "mentalidade"
+    ]
+  },
+  {
+    "podcastName": "venus",
+    "episode": "Episódio Especial 199 - Venus",
+    "videoId": "vid0199",
+    "categories": [
+      "negócios",
+      "programação"
+    ]
+  },
+  {
+    "podcastName": "dev talks",
+    "episode": "Episódio Especial 200 - Dev Talks",
+    "videoId": "vid0200",
+    "categories": [
+      "corrida",
+      "viagem",
+      "ciência"
+    ]
   }
 ]

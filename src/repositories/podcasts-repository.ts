@@ -1,23 +1,37 @@
 import fs from "fs";
 import path from "path";
-
 import { PodcastModel } from "../models/podcast-model";
 
-const pathData = path.join(__dirname, "../repositories/podcasts.json");
+const devPath = path.resolve(process.cwd(), "src", "repositories", "podcasts.json");
+const prodPath = path.resolve(process.cwd(), "dist", "repositories", "podcasts.json");
+
+const pathData = fs.existsSync(prodPath) ? prodPath : devPath;
+
+const loadData = (): PodcastModel[] => {
+  const rawData = fs.readFileSync(pathData, "utf-8");
+  return JSON.parse(rawData);
+};
 
 export const repositoryPodcast = async (
   podcastName?: string
 ): Promise<PodcastModel[]> => {
-  const language = "utf-8";
-
-  const rawData = fs.readFileSync(pathData, language);
-  let jsonFile = JSON.parse(rawData);
+  console.log("entrou em repositoryPodcast");
+  const data = loadData();
 
   if (podcastName) {
-    jsonFile = jsonFile.filter(
-      (podcast: PodcastModel) => podcast.podcastName === podcastName
+    return data.filter(
+      (podcast) => podcast.podcastName === podcastName
     );
   }
 
-  return jsonFile;
+  return data;
+};
+
+export const repositoryPodcastByCategory = async (
+  categoryName: string
+): Promise<PodcastModel[]> => {
+  const data = loadData();
+  return data.filter(
+    (podcast) => podcast.categories.includes(categoryName)
+  );
 };
